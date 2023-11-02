@@ -30,7 +30,4 @@ class Brewery:
     for breweries in range(0,50):
         print(parsed_json[number]['name'])
         number = number + 1
-        
-if __name__ == "__main__":
-    # nothing is here because we don't need to print anything
     
