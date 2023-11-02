@@ -9,7 +9,7 @@
 # Citations: N/A
 # Anything else that's relevant: N/A
 
-from breweryPackage.classBrewery import Brewery
+from breweryPackage.classBrewery import *
 
 if __name__ == "__main__":
     # instantiates the class, which uses the class as a method and calls
